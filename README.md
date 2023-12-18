@@ -7,22 +7,10 @@ The objective is to create an intelligent voice assistant capable of executing v
 - Developing greeting functions
 - Developing Command Functions
 
-## Features
-
-- **Voice Recognition:** The assistant can understand and process voice commands.
-- **Task Execution:** Perform tasks such as sending messages, playing music, providing weather updates, etc.
-- **Customization:** Easily extend and customize the assistant's capabilities.
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- [Virtualenv](https://virtualenv.pypa.io/) (optional but recommended)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/voice-assistant.git
+## Prerequisites
+### Libraries Required
+```bash
+pip install pyttsx3
+pip install DateTime
+pip install SpeechRecognition
+pip install wikipedia
