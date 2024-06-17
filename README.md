@@ -24,8 +24,7 @@ This is a Python-based voice assistant application that can perform a variety of
 
 1. **Clone the repository**:
    ```bash
-    git clone https://github.com/your-repo/voice-assistant-app.git
-    cd voice-assistant-app
+    https://github.com/himankgupta1/Voice-Assistant-App.git
 
  2. **Install the required libraries**:
      ```bash
