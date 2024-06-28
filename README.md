@@ -1,4 +1,4 @@
-# Voice Assistant App
+# Voice Assistant Application
 
 This is a Python-based voice assistant application that can perform a variety of tasks, such as searching Wikipedia, opening websites, and providing the current time. The app utilizes several libraries to achieve these functionalities, including `pyttsx3` for text-to-speech, `speech_recognition` for converting speech to text, and `wikipedia` for fetching data from Wikipedia.
 
@@ -24,7 +24,7 @@ This is a Python-based voice assistant application that can perform a variety of
 
 1. **Clone the repository**:
    ```bash
-    https://github.com/himankgupta1/Voice-Assistant-App.git
+   git clone https://github.com/himankgupta1/Voice-Assistant-Application.git
 
  2. **Install the required libraries**:
      ```bash
@@ -40,7 +40,7 @@ This is a Python-based voice assistant application that can perform a variety of
 
 1. **Run the application**:
    ```bash
-    python Voice_Assistant.py
+    Voice_Assistant.ipynb
 
  2. **Interact with the assistant**:
 
